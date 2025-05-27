@@ -10,8 +10,8 @@ app.get('/intro', (req, res) => {
   res.send('Hello I am anuj!');
 });
 
-app.get('/about', (req, res) => {
-  res.send('about me');
+app.get('/section', (req, res) => {
+  res.send('sexction');
 });
 
 
